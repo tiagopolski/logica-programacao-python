@@ -22,5 +22,4 @@ Os códigos foram criados como parte de atividades de faculdade e exercícios pr
 
 ## Objetivo
 Praticar lógica de programação e desenvolver raciocínio lógico aplicado à resolução de problemas computacionais.
-# logica-programacao-python
-Exercícios e exemplos de lógica de programação em Python
+
